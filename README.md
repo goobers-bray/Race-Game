@@ -217,4 +217,4 @@ Race is available as a complete free version with all features and updates inclu
 Experience the thrill of racing today! Download Race for free and start your journey to becoming a champion!
 
 ---
-**Last updated:** 2026-09-19 17:39:54 UTC
+**Last updated:** 2026-09-19 19:52:39 UTC
